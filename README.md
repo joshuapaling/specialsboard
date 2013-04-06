@@ -1,12 +1,10 @@
 Specials Board Color Scheme
 =============
 
-Specials Board (Coda) Color Scheme for Sublime Text 2
+This is a Sublime Text implementation of Coda 2's "Specials Board" colour theme.
 
-You will find Sublime Text 2 packages directory by using the `Preferences -> Browse Packages`
+I've jsut forked it from @milsyobtaf and then made a few tweaks to make it more to my liking, including:
 
-..or you could clone the repo using GIT within the packages directory:
-
-	git clone https://github.com/lamotta/specialsboard.git
-
-![Specials Board](https://raw.github.com/lamotta/specialsboard/master/se.png)
+* Slightly darker backgorund colour
+* Bright blue for current line highlight, and selection highlight (I find it really annoying to have these settings anything less than bright, clear, and immediately obvious)
+* possibly more tweaks in future.
