@@ -3,8 +3,7 @@ Specials Board Color Scheme
 
 This is a Sublime Text implementation of Coda 2's "Specials Board" colour theme.
 
-I've just forked it from @milsyobtaf and then made a few tweaks to make it more to my liking, including:
+It's optimised for PHP, HTML, CSS/SASS/SCSS and Javascript.
 
-* Slightly darker background colour
-* Bright blue for current line highlight, and selection highlight (I find it really annoying to have these settings anything less than bright, clear, and immediately obvious)
-* possibly more tweaks in future.
+The PHP, HTML and CSS/SASS/SCSS are a pretty close match with Coda's version. The Javascript isn't as close... from what I can tell, it's impossible to target Javascript variables and some other language constructs in Sublime's color scheme files, so you don't have as much control as you'd want.
+
