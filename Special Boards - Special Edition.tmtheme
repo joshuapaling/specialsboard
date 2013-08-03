@@ -26,7 +26,7 @@
 				<key>invisibles</key>
 				<string>#ffffff</string>
 				<key>lineHighlight</key>
-				<string>#106bb3</string><!-- light royal blue -->
+				<string>#2d2d2d</string><!-- grey -->
 				<key>selection</key>
 				<string>#106bb3</string><!-- light royal blue -->
 			</dict>
@@ -364,8 +364,8 @@
 				<string>#F8F8F8</string><!-- grey almost white -->
 			</dict>
 		</dict>
-		
-		
+
+
 		<!-- START of SASS -->
 		<dict>
 			<key>name</key>
@@ -458,12 +458,12 @@
 			</dict>
 		</dict>
 		<!-- END of SASS -->
-		
-		
-		
-		
-		
-		
+
+
+
+
+
+
 		<!-- START of CSS -->
 		<dict>
 			<key>name</key>
@@ -624,9 +624,9 @@
 				<string>#CCC642</string><!-- mirky yellow green -->
 			</dict>
 		</dict>
-		
-		
-		
+
+
+
 		<!-- END of Javascript -->
 
 
@@ -643,7 +643,7 @@
 				<string>#ebe7e2</string><!-- off white -->
 			</dict>
 		</dict>
-		
+
 		<dict>
 			<key>name</key>
 			<string>PHP: Opening and closing tags</string>
@@ -946,7 +946,7 @@
 				<string>#d6893a</string><!-- orange -->
 			</dict>
 		</dict>
-		
+
 		<dict>
 			<key>name</key>
 			<string>PHP: Storage Modifier</string>
@@ -958,7 +958,7 @@
 				<string>#FFCF85</string><!-- peachy yellow -->
 			</dict>
 		</dict>
-		
+
 		<dict>
 			<key>name</key>
 			<string>PHP: Keyword Operator Assignment / Class</string>
