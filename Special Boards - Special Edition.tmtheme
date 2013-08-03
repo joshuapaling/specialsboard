@@ -301,7 +301,7 @@
 			<key>name</key>
 			<string>✘ Meta.tag.«all»</string>
 			<key>scope</key>
-			<string>declaration.tag, declaration.tag entity, meta.tag, meta.tag entity</string>
+			<string>declaration.tag, declaration.tag entity, meta.tag, meta.tag entity, source.js.embedded.html entity.name.tag</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
