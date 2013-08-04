@@ -9,19 +9,22 @@ The PHP, HTML and CSS/SASS/SCSS are a pretty close match with Coda's version. Th
 
 ## Notes
 
-Use the 'scope hunter' plugin for ST2 to help with editing themes. Particularly, the 'toggle instant scoper' option.
+Use the 'scope hunter' plugin for ST2 to help with editing themes and finding the right scope paths. Particularly, the 'toggle instant scoper' option.
 
 ## Colours used (for easy copy/pasting):
 
-<string>#d6893a</string><!-- orange -->
+<string>#393939</string><!-- grey - background colour -->
+<string>#2B2B2B</string><!-- grey - line highlight-->
+<string>#E6E1DC</string><!-- off white - foreground colour -->
+
+<string>#CC762E</string><!-- orange -->
+<string>#DA4632</string><!-- bright red-orange -->
+
 <string>#dadafd</string><!-- pale purple -->
-<string>#d6893a</string><!-- orange -->
 <string>#b4c75f</string><!-- mirky light green -->
-<string>#EF5D32</string><!-- bright red-orange -->
+
 <string>#7baac7</string><!-- pastel mid blue -->
 <string>#106bb3</string><!-- light royal blue -->
-<string>#2d2d2d</string><!-- grey -->
-<string>#ebe7e2</string><!-- off white -->
 <string>#ff4d41</string><!-- bright orangy pinky red -->
 <string>#666666</string><!-- dark grey -->
 <string>#ffd479</string><!-- yellow -->

@@ -22,11 +22,11 @@
 				<key>caret</key>
 				<string>#DDDDDD</string>
 				<key>foreground</key>
-				<string>#ebe7e2</string><!-- off white -->
+				<string>#E6E1DC</string><!-- off white -->
 				<key>invisibles</key>
 				<string>#ffffff</string>
 				<key>lineHighlight</key>
-				<string>#2d2d2d</string><!-- grey -->
+				<string>#2b2b2b</string><!-- grey -->
 				<key>selection</key>
 				<string>#106bb3</string><!-- light royal blue -->
 			</dict>
@@ -91,7 +91,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#d6893a</string><!-- orange -->
+				<string>#CC762E</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -104,7 +104,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#EF5D32</string><!-- bright red-orange -->
+				<string>#DA4632</string><!-- bright red-orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -130,7 +130,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#d6893a</string><!-- orange -->
+				<string>#CC762E</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -152,7 +152,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d6893a</string><!-- orange -->
+				<string>#CC762E</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -174,7 +174,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d6893a</string><!-- orange -->
+				<string>#CC762E</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -412,7 +412,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ebe7e2</string><!-- off white -->
+				<string>#E6E1DC</string><!-- off white -->
 			</dict>
 		</dict>
 		<dict>
@@ -423,7 +423,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ebe7e2</string><!-- off white -->
+				<string>#E6E1DC</string><!-- off white -->
 			</dict>
 		</dict>
 		<dict>
@@ -434,7 +434,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ebe7e2</string><!-- off white -->
+				<string>#E6E1DC</string><!-- off white -->
 			</dict>
 		</dict>
 		<dict>
@@ -445,7 +445,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ebe7e2</string><!-- off white -->
+				<string>#E6E1DC</string><!-- off white -->
 			</dict>
 		</dict>
 		<dict>
@@ -456,7 +456,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d6893a</string><!-- orange -->
+				<string>#CC762E</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -486,7 +486,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ebe7e2</string><!-- off white -->
+				<string>#E6E1DC</string><!-- off white -->
 			</dict>
 		</dict>
 		<dict>
@@ -497,7 +497,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ebe7e2</string><!-- off white -->
+				<string>#E6E1DC</string><!-- off white -->
 			</dict>
 		</dict>
 		<dict>
@@ -508,7 +508,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ebe7e2</string><!-- off white -->
+				<string>#E6E1DC</string><!-- off white -->
 			</dict>
 		</dict>
 		<dict>
@@ -519,7 +519,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ebe7e2</string><!-- off white -->
+				<string>#E6E1DC</string><!-- off white -->
 			</dict>
 		</dict>
 		<dict>
@@ -530,7 +530,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ebe7e2</string><!-- off white -->
+				<string>#E6E1DC</string><!-- off white -->
 			</dict>
 		</dict>
 		<dict>
@@ -612,7 +612,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d6893a</string><!-- orange -->
+				<string>#CC762E</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -653,7 +653,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ebe7e2</string><!-- off white -->
+				<string>#E6E1DC</string><!-- off white -->
 			</dict>
 		</dict>
 
@@ -709,7 +709,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ebe7e2</string><!-- off white -->
+				<string>#E6E1DC</string><!-- off white -->
 			</dict>
 		</dict>
 		<dict>
@@ -720,7 +720,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EBE7E2</string><!-- off white -->
+				<string>#E6E1DC</string><!-- off white -->
 			</dict>
 		</dict>
 		<dict>
@@ -731,7 +731,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EBE7E2</string><!-- off white -->
+				<string>#E6E1DC</string><!-- off white -->
 			</dict>
 		</dict>
 		<dict>
@@ -788,7 +788,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d6893a</string><!-- orange -->
+				<string>#CC762E</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -812,7 +812,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ebe7e2</string><!-- off white -->
+				<string>#E6E1DC</string><!-- off white -->
 			</dict>
 		</dict>
 		<dict>
@@ -823,7 +823,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ebe7e2</string><!-- off white -->
+				<string>#E6E1DC</string><!-- off white -->
 			</dict>
 		</dict>
 		<dict>
@@ -834,7 +834,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d6893a</string><!-- orange -->
+				<string>#CC762E</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -863,7 +863,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ebe7e2</string><!-- off white -->
+				<string>#E6E1DC</string><!-- off white -->
 			</dict>
 		</dict>
 		<dict>
@@ -920,7 +920,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ebe7e2</string><!-- off white -->
+				<string>#E6E1DC</string><!-- off white -->
 			</dict>
 		</dict>
 		<dict>
@@ -956,7 +956,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d6893a</string><!-- orange -->
+				<string>#CC762E</string><!-- orange -->
 			</dict>
 		</dict>
 
