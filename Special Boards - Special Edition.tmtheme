@@ -163,7 +163,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#b17371</string><!-- greyish pink -->
+				<string>#B1778D</string><!-- magenta -->
 			</dict>
 		</dict>
 		<dict>
@@ -174,7 +174,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#b17371</string><!-- greyish pink -->
+				<string>#d6893a</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -301,7 +301,7 @@
 			<key>name</key>
 			<string>✘ Doctype&#x2f;XML Processing</string>
 			<key>scope</key>
-			<string>meta.tag.sgml.doctype.html, meta.tag.sgml.doctype.xml, meta.tag.sgml.doctype.xml keyword.doctype.xml, meta.tag.sgml.doctype.xml variable.documentroot.xml</string>
+			<string>meta.tag.sgml.doctype.html, meta.tag.sgml.doctype.xml, meta.tag.sgml.doctype.xml keyword.doctype.xml, meta.tag.sgml.doctype.xml variable.documentroot.xml, meta.tag.sgml.html</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>

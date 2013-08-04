@@ -13,7 +13,6 @@ Use the 'scope hunter' plugin for ST2 to help with editing themes. Particularly,
 
 ## Colours used (for easy copy/pasting):
 
-<string>#b17371</string><!-- greyish pink -->
 <string>#d6893a</string><!-- orange -->
 <string>#dadafd</string><!-- pale purple -->
 <string>#d6893a</string><!-- orange -->
