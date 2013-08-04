@@ -17,7 +17,7 @@ Use the 'scope hunter' plugin for ST2 to help with editing themes and finding th
 <string>#2B2B2B</string><!-- grey - line highlight-->
 <string>#E6E1DC</string><!-- off white - foreground colour -->
 
-<string>#CC762E</string><!-- orange -->
+<string>#d6893a</string><!-- orange -->
 <string>#DA4632</string><!-- bright red-orange -->
 
 <string>#dadafd</string><!-- pale purple -->

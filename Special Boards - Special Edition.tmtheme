@@ -91,7 +91,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#CC762E</string><!-- orange -->
+				<string>#d6893a</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -130,7 +130,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#CC762E</string><!-- orange -->
+				<string>#d6893a</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -152,7 +152,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CC762E</string><!-- orange -->
+				<string>#d6893a</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -174,7 +174,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CC762E</string><!-- orange -->
+				<string>#d6893a</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -314,7 +314,7 @@
 			<key>name</key>
 			<string>✘ Meta.tag.«all»</string>
 			<key>scope</key>
-			<string>declaration.tag, declaration.tag entity, meta.tag, meta.tag entity, source.js.embedded.html entity.name.tag</string>
+			<string>declaration.tag, declaration.tag entity, meta.tag, meta.tag entity, source.js.embedded.html entity.name.tag, punctuation.definition.tag.html</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -456,7 +456,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CC762E</string><!-- orange -->
+				<string>#d6893a</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -612,7 +612,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CC762E</string><!-- orange -->
+				<string>#d6893a</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -788,7 +788,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CC762E</string><!-- orange -->
+				<string>#d6893a</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -834,7 +834,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CC762E</string><!-- orange -->
+				<string>#d6893a</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -927,7 +927,7 @@
 			<key>name</key>
 			<string>PHP: String & Array Functions (eg. nl2br, in_array)</string>
 			<key>scope</key>
-			<string>support.function.string.php, support.function.array.php, support.function.type.php</string>
+			<string>support.function.string.php, support.function.array.php, support.function.type.php, support.function.construct.php, support.function.head.php</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -956,7 +956,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CC762E</string><!-- orange -->
+				<string>#d6893a</string><!-- orange -->
 			</dict>
 		</dict>
 
